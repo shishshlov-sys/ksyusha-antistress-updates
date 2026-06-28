@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "2.0",
   "apkUrl": "KsyushaAntistress-install.apk",
-  "notes": "Добавлена отправка милых уведомлений Ксюше из Telegram-бота: /ideas, /u1.../u30 и /notify."
+  "notes": "Добавлена поддержка Cloudflare Worker для Telegram webhook, чтобы бот отвечал всегда."
 }
