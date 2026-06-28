@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 16,
-  "versionName": "2.5",
+  "versionCode": 17,
+  "versionName": "2.2",
   "apkUrl": "https://shishshlov-sys.github.io/ksyusha-antistress-updates/KsyushaAntistress-install.apk",
-  "notes": "Аварийный стабильный фикс запуска: приложение открывается через упрощённый безопасный экран без фонового сервиса."
+  "notes": "Откат дизайна до версии 2.2: возвращён старый интерфейс Антистресс / Аптечка / Сигнал без новых экспериментальных экранов."
 }
