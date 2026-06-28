@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 18,
-  "versionName": "2.2.1",
+  "versionCode": 19,
+  "versionName": "2.2.2",
   "apkUrl": "https://shishshlov-sys.github.io/ksyusha-antistress-updates/KsyushaAntistress-install.apk",
-  "notes": "Вернул функцию попросить монеты и убрал раздел Аптечка. Остались Антистресс и Сигнал."
+  "notes": "Вернул фоновые уведомления как в версии 2.2: приложение снова запускает постоянную проверку сообщений от Даниила."
 }
