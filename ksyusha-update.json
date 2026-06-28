@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 15,
-  "versionName": "2.4",
-  "apkUrl": "KsyushaAntistress-install.apk",
-  "notes": "Срочный фикс запуска: приложение больше не стартует фоновый сервис автоматически и не падает при открытии."
+  "versionCode": 16,
+  "versionName": "2.5",
+  "apkUrl": "https://shishshlov-sys.github.io/ksyusha-antistress-updates/KsyushaAntistress-install.apk",
+  "notes": "Аварийный стабильный фикс запуска: приложение открывается через упрощённый безопасный экран без фонового сервиса."
 }
