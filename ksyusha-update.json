@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apkUrl": "KsyushaAntistress-install.apk",
-  "notes": "Добавлен Telegram-сигнал Нужны монеты с вводом суммы от 0 до 99999."
+  "notes": "Включены Telegram-уведомления для Даниила и сигнал Нужны монеты."
 }
