@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apkUrl": "KsyushaAntistress-install.apk",
-  "notes": "Счётчик антистресса теперь сохраняется, дневной счётчик сбрасывается в 00:01, добавлен общий счётчик и убрана Аптечка."
+  "notes": "Добавлена отправка милых уведомлений Ксюше из Telegram-бота: /ideas, /u1.../u30 и /notify."
 }
