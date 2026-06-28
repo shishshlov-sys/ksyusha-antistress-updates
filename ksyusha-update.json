@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "KsyushaAntistress-install.apk",
-  "notes": "Добавлен экран Сигнал Даниилу с Telegram-уведомлениями, защита от спама и обновлённая аптечка настроения."
+  "notes": "Исправлена ссылка проверки обновлений: теперь приложение смотрит на GitHub Pages shishshlov-sys."
 }
