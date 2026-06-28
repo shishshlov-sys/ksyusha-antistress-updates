@@ -1,6 +1,6 @@
 ﻿{
-  "versionCode": 12,
-  "versionName": "2.1",
+  "versionCode": 13,
+  "versionName": "2.2",
   "apkUrl": "KsyushaAntistress-install.apk",
-  "notes": "Cloudflare Worker подключён: бот отвечает всегда, приложение получает уведомления через Worker."
+  "notes": "Добавлена фоновая проверка уведомлений через постоянный сервис, чтобы сообщения приходили при скрытом приложении."
 }
